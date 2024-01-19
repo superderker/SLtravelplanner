@@ -60,5 +60,4 @@ And will output the following:
 ### Developers
 * Erik Söderlund - eriso@kth.se
 * Niels Barth - nielsba@kth.se
-### Supervisor & Teachers Asssistant
-* Jesper Lidbaum - jlidbaum@kth.se
+
