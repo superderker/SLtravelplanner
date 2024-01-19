@@ -1,0 +1,1 @@
+python -W ignore -u "..\src\main.py" < ".\testdata1.txt"
